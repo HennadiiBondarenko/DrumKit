@@ -1,1 +1,3 @@
-# DrumKit-JS-HTML-CSS
+# DrumKit
+
+https://hennadiibondarenko.github.io/DrumKit/
